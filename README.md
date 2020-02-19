@@ -1,4 +1,4 @@
-[![build status of master](https://travis-ci.com/rzhong2/swhw04a.svg?branch=master)](https://travis-ci.com/rzhong2/swhw04a)
+[![build status of master](https://travis-ci.com/rzhong2/sw567.svg?branch=master)](https://travis-ci.com/rzhong2/sw567)
 
 
-sw567 hw 04a
+sw567
